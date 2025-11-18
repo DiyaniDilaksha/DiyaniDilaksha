@@ -1,10 +1,6 @@
 <h1>Hi 👋 </h1>
 <h1>I'm Diyani Dilaksha Munasinghe</h1>
-<h3>Results-driven and innovative Software Engineer with over 3 years of professional experience in designing, developing, testing, and maintaining scalable web and enterprise applications. Proficient in React.js, Spring Boot, Java, MySQL, Angular and JavaScript, with a strong focus on code quality, performance optimization, and collaborative problem-solving. Dedicated to delivering efficient, reliable, and high-performing software solutions that align with organizational goals and drive business success.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diyanidilaksha&label=Profile%20views&color=0e75b6&style=flat" alt="diyanidilaksha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyanidilaksha" alt="diyanidilaksha" /></a> </p>
+<h3 align="center">Results-driven and innovative Software Engineer with over 3 years of professional experience in designing, developing, testing, and maintaining scalable web and enterprise applications. Proficient in React.js, Spring Boot, Java, MySQL, Angular and JavaScript, with a strong focus on code quality, performance optimization, and collaborative problem-solving. Dedicated to delivering efficient, reliable, and high-performing software solutions that align with organizational goals and drive business success.</h3>
 
 - 🔭 I’m currently working as a **Freelancer**
 
