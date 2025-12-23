@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Software Developing**
 
-- 👨‍💻 My portfolio [https://diyanidilaksha.github.io/Diyani-Portfolio/](https://diyanidilaksha.github.io/Diyani-Portfolio/)
+- 👨‍💻 My portfolio [https://diyanidilaksha.github.io/Diyani-Dilaksha-Portfolio/)
 
 - 📫 How to reach me **diyanidilaksha@gmail.com**
 
